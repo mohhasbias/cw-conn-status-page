@@ -6,7 +6,7 @@ sites:
   - name: Chatwoot
     url: https://dev-cw.hsi.id
   - name: Notifikasi API
-    url: https://notifikasi.hsi.id
+    url: https://notifikasi.hsi.id/ping
   - name: DBS API
     url: https://dbs.hsi.id
   - name: Test Broken Site
