@@ -9,8 +9,6 @@ sites:
     url: https://notifikasi.hsi.id/ping
   - name: DBS API
     url: https://dbs.hsi.id/useruser/regcode/12345
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,11 +16,13 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /cw-conn-status-page
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://img.icons8.com/ios/344/connected.png
+  favicon: https://img.icons8.com/ios/344/connected.png
   name: Chatwoot Connector
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introTitle: "**Chatwoot Connector**"
+  introTitle: "**System Status**"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  introMessage: "System Status"
+  # introMessage: "System Status"
   navbar:
     - title: Status
       href: /$REPO
