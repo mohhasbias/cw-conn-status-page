@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 391,
-    "timeWeek": 391,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "time": 386,
+    "timeDay": 386,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,38 @@
     "icon": "https://favicons.githubusercontent.com/dbs.hsi.id",
     "slug": "dbs-api",
     "status": "up",
-    "uptime": "88.86%",
-    "uptimeDay": "88.86%",
-    "uptimeWeek": "88.86%",
-    "uptimeMonth": "88.86%",
-    "uptimeYear": "88.86%",
-    "time": 957,
-    "timeDay": 957,
-    "timeWeek": 957,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "uptime": "91.46%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "91.46%",
+    "uptimeMonth": "91.46%",
+    "uptimeYear": "91.46%",
+    "time": 880,
+    "timeDay": 880,
+    "timeWeek": 880,
+    "timeMonth": 880,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2022-05-06": 16
+    }
+  },
+  {
+    "name": "Kafka",
+    "url": "https://www.cloudkarafka.com/missing",
+    "icon": "https://favicons.githubusercontent.com/www.cloudkarafka.com",
+    "slug": "kafka",
+    "status": "down",
+    "uptime": "30.31%",
+    "uptimeDay": "30.31%",
+    "uptimeWeek": "30.31%",
+    "uptimeMonth": "30.31%",
+    "uptimeYear": "30.31%",
+    "time": 655,
+    "timeDay": 655,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
+    "dailyMinutesDown": {
+      "2022-05-06": 0
     }
   }
 ]
