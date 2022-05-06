@@ -8,7 +8,7 @@ sites:
   - name: Notifikasi API
     url: https://notifikasi.hsi.id/ping
   - name: DBS API
-    url: https://dbs.hsi.id
+    url: https://dbs.hsi.id/useruser/regcode/12345
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
