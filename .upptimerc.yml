@@ -9,8 +9,8 @@ sites:
     url: https://notifikasi.hsi.id/ping
   - name: DBS API
     url: https://dbs.hsi.id/useruser/regcode/12345
-#  - name: Kafka
-#    url: https://www.cloudkarafka.com/missing
+  - name: Kafka
+    url: https://cw-conn-heartbeat.vercel.app/api/kafka
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
