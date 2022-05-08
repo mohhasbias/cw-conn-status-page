@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/cw-conn-heartbeat.vercel.app",
     "slug": "attachments-worker",
     "status": "up",
-    "uptime": "92.44%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "92.44%",
-    "uptimeMonth": "92.44%",
-    "uptimeYear": "92.44%",
+    "uptime": "93.43%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "93.43%",
     "time": 766,
     "timeDay": 766,
     "timeWeek": 766,
     "timeMonth": 766,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2022-05-08": 61
+      "2022-05-08": 54
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/cw-conn-heartbeat.vercel.app",
     "slug": "non-attachments-worker",
     "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 492,
     "timeWeek": 492,
     "timeMonth": 492,
     "timeYear": 492,
-    "dailyMinutesDown": {
-      "2022-05-08": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webhook",
@@ -45,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/cw-conn-heartbeat.vercel.app",
     "slug": "webhook",
     "status": "up",
-    "uptime": "28.92%",
-    "uptimeDay": "28.92%",
-    "uptimeWeek": "28.92%",
-    "uptimeMonth": "28.92%",
-    "uptimeYear": "28.92%",
+    "uptime": "31.01%",
+    "uptimeDay": "31.01%",
+    "uptimeWeek": "31.01%",
+    "uptimeMonth": "31.01%",
+    "uptimeYear": "31.01%",
     "time": 468,
     "timeDay": 468,
     "timeWeek": 468,
     "timeMonth": 468,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2022-05-08": 577
+      "2022-05-08": 570
     }
   },
   {
@@ -120,19 +118,19 @@
     "url": "https://cw-conn-heartbeat.vercel.app/api/kafka",
     "icon": "https://favicons.githubusercontent.com/cw-conn-heartbeat.vercel.app",
     "slug": "kafka",
-    "status": "up",
-    "uptime": "83.70%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "83.70%",
-    "uptimeMonth": "83.70%",
-    "uptimeYear": "83.70%",
-    "time": 851,
-    "timeDay": 873,
-    "timeWeek": 851,
-    "timeMonth": 851,
-    "timeYear": 851,
+    "status": "down",
+    "uptime": "84.36%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "84.36%",
+    "uptimeMonth": "84.36%",
+    "uptimeYear": "84.36%",
+    "time": 818,
+    "timeDay": 835,
+    "timeWeek": 818,
+    "timeMonth": 818,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2022-05-08": 68,
+      "2022-05-08": 61,
       "2022-05-06": 159
     }
   }
