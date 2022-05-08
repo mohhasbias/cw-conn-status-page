@@ -1,7 +1,7 @@
 url: https://cw-conn-heartbeat.vercel.app/api/kafka
-status: down
-code: 503
-responseTime: 440
-lastUpdated: 2022-05-08T13:59:17.034Z
+status: up
+code: 200
+responseTime: 485
+lastUpdated: 2022-05-08T14:06:19.567Z
 startTime: Sat May 07 2022 14:49:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
