@@ -80,19 +80,19 @@
     "url": "https://notifikasi.hsi.id/ping",
     "icon": "https://favicons.githubusercontent.com/notifikasi.hsi.id",
     "slug": "notifikasi-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 300,
-    "timeWeek": 354,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "time": 363,
+    "timeDay": 340,
+    "timeWeek": 361,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2022-05-19": 0
+      "2022-05-19": 1
     }
   },
   {
