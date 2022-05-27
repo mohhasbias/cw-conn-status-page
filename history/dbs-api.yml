@@ -1,7 +1,7 @@
 url: https://dbs.hsi.id/useruser/regcode/12345
-status: up
-code: 200
-responseTime: 321
-lastUpdated: 2022-05-26T23:20:23.534Z
+status: down
+code: 404
+responseTime: 535
+lastUpdated: 2022-05-27T07:27:10.940Z
 startTime: Fri May 06 2022 05:58:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
