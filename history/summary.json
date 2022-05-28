@@ -24,18 +24,20 @@
     "url": "https://cw-conn-heartbeat.vercel.app/api/skip-attachments-beat",
     "icon": "https://favicons.githubusercontent.com/cw-conn-heartbeat.vercel.app",
     "slug": "non-attachments-worker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 425,
-    "timeWeek": 473,
-    "timeMonth": 478,
-    "timeYear": 478,
-    "dailyMinutesDown": {}
+    "time": 485,
+    "timeDay": 566,
+    "timeWeek": 492,
+    "timeMonth": 485,
+    "timeYear": 485,
+    "dailyMinutesDown": {
+      "2022-05-28": 0
+    }
   },
   {
     "name": "Webhook",
@@ -43,18 +45,17 @@
     "icon": "https://favicons.githubusercontent.com/cw-conn-heartbeat.vercel.app",
     "slug": "webhook",
     "status": "up",
-    "uptime": "98.06%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.06%",
-    "uptimeYear": "98.06%",
+    "uptime": "98.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
     "time": 493,
     "timeDay": 442,
     "timeWeek": 458,
     "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2022-05-28": 3,
       "2022-05-08": 570
     }
   },
