@@ -14,7 +14,7 @@ sites:
   - name: Notifikasi API
     url: https://notifikasi.hsi.id/ping
   - name: DBS API
-    url: https://dbs.hsi.id/useruser/regcode/12345
+    url: https://dbs.hsi.id/SubGroupModuleAdmin/getAdminByGroupNip/test/test
   - name: Kafka
     url: https://cw-conn-heartbeat.vercel.app/api/kafka
 
