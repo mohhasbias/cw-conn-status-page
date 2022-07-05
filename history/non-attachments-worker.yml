@@ -1,7 +1,7 @@
 url: https://cw-conn-heartbeat.vercel.app/api/skip-attachments-beat
-status: up
-code: 200
-responseTime: 505
-lastUpdated: 2022-07-04T23:21:30.967Z
+status: down
+code: 503
+responseTime: 478
+lastUpdated: 2022-07-05T04:33:54.495Z
 startTime: Sun May 08 2022 00:34:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
