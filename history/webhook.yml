@@ -1,7 +1,7 @@
 url: https://cw-conn-heartbeat.vercel.app/api/webhook-beat
-status: down
-code: 503
-responseTime: 462
-lastUpdated: 2022-08-03T08:58:32.091Z
+status: up
+code: 200
+responseTime: 431
+lastUpdated: 2022-08-03T09:25:29.084Z
 startTime: Sun May 08 2022 00:34:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
