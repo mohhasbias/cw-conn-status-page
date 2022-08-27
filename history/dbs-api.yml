@@ -1,7 +1,7 @@
 url: https://dbs.hsi.id/SubGroupModuleAdmin/getAdminByGroupNip/test/test
-status: down
-code: 500
-responseTime: 343
-lastUpdated: 2022-08-27T14:46:03.014Z
+status: up
+code: 200
+responseTime: 2158
+lastUpdated: 2022-08-27T14:58:38.290Z
 startTime: Fri May 06 2022 05:58:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
